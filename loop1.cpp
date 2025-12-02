@@ -7,8 +7,7 @@ int main() {
 	int a, b, sum;
 	char ans = 'e';
 
-
-	while (ans == 'e' || ans == 'E') {
+while (ans == 'e' || ans == 'E') {
 		cout << "sayi gir ";
 		cin >> a;
 		cout << "sayi gir ";
